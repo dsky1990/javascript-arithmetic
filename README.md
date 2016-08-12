@@ -1,0 +1,2 @@
+# javascript-arithmetic
+一个javascript算法计划，争取一周一个javascript算法
